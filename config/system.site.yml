@@ -1,7 +1,7 @@
 uuid: ca5f5135-803d-4974-9d68-a278b6bbe937
 name: circlecitesting
 mail: mickey@micnap.com
-slogan: ''
+slogan: 'Testing out CircleCI'
 page:
   403: ''
   404: ''
